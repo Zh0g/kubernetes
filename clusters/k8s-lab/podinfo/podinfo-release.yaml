@@ -11,8 +11,8 @@ spec:
       version: "6.x"
       sourceRef:
         kind: HelmRepository
-        name: podinfo
-        namespace: flux-system
+        name: podinfo-repository
+        namespace: podinfo
   values:
     replicaCount: 1
     service:
