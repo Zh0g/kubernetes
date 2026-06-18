@@ -4,3 +4,4 @@ resources:
   - namespace.yaml
   - podinfo-repository.yaml
   - podinfo-release.yaml
+  - networkpolicy-podinfo-internal.yaml
